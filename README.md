@@ -26,9 +26,5 @@ applications, applying the same quality engineering rigor to AI systems.
 
 ### 🔗 Connect
 
-[LinkedIn](YOUR_LINKEDIN_URL) | [Email](mailto:your@email.com)
-
-### 🔗 Connect
-
 💼 LinkedIn: [linkedin.com/in/p31](https://www.linkedin.com/in/p31/)
 📧 Email: pradippd31@gmail.com
