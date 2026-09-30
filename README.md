@@ -22,6 +22,7 @@ applications, applying the same quality engineering rigor to AI systems.
 
 | Project | What I did |
 |---|---|
+| [Selenium Web Automation](https://github.com/pradip-prasad/Selenium-Web-Automation) | Selenium Web Automation |
 | [saucedemo-test-automation](link) | Built UI + API test automation using Playwright and TypeScript with Page Object Model, CI pipeline, and reports |
 
 ### 🔗 Connect
