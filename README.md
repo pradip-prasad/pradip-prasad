@@ -1,6 +1,6 @@
 # Hi, I'm Pradip Prasad 👋
 
-### Senior SDET | 11 years in test automation | AI/LLM Application Testing
+### Senior SDET | 11 years in test automation using Playwright and Selenium | AI/LLM Application Testing
 
 I've spent 11 years building test automation frameworks and API test suites
 that catch real bugs early. I've worked on testing LLM and ML-based
