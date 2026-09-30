@@ -11,7 +11,7 @@ applications, applying the same quality engineering rigor to AI systems.
 ### 🔧 Worked with
 
 - **Automation:** Playwright, Selenium
-- **Languages:** Java, Python
+- **Languages:** Java, Python, TypeScript
 - **Testing frameworks:** TestNG, Pytest
 - **API testing:** REST API automation
 - **AI/LLM testing:** DeepEval, Promptfoo, LLM evaluation, RAG testing
