@@ -1,27 +1,32 @@
 # Hi, I'm Pradip Prasad 👋
 
-### Senior SDET | 11 years in test automation | Moving into AI/LLM application testing
+### Senior SDET | 11 years in test automation | AI/LLM Application Testing
 
-I build test automation frameworks and API test suites that catch real bugs
-early. Now I'm applying that experience to testing LLM and ML-based applications.
+I've spent 11 years building test automation frameworks and API test suites
+that catch real bugs early. I've worked on testing LLM and ML-based
+applications, applying the same quality engineering rigor to AI systems.
 
 📍 Noida / NCR, India
 
-### 🔧 Skills
+### 🔧 Worked with
 
 - **Automation:** Playwright, Selenium
-- **Languages:** Java, [Python, if you actually use it]
-- **API testing:** REST API automation, [Pytest / RestAssured]
-- **Frameworks:** TestNG, [Pytest], [Maven], CI/CD ([GitHub Actions / Jenkins])
-- **AI testing (learning and building):** [only tools you've really used, e.g. DeepEval, Promptfoo]
+- **Languages:** Java, Python
+- **Testing frameworks:** TestNG, Pytest
+- **API testing:** REST API automation
+- **AI/LLM testing:** DeepEval, Promptfoo, LLM evaluation, RAG testing
+- **GenAI stack:** OpenAI, LangChain
+- **CI/CD:** GitHub Actions / Jenkins
 
-### 🚀 Featured Projects
+### 🚀 What I've worked on
 
-| Project | What it demonstrates |
+| Project | What I did |
 |---|---|
-| [Playwright Automation Framework](link) | UI + API tests, Page Object Model, CI pipeline, reports |
-| [LLM Evaluation Pipeline](link) | [What you evaluate and how] |
-| [RAG Testing Framework](link) | [What you test and which metrics] |
+| [Playwright Automation Framework](link) | Built UI + API test automation with Page Object Model, CI pipeline, and reports |
+
+### 🔗 Connect
+
+[LinkedIn](YOUR_LINKEDIN_URL) | [Email](mailto:your@email.com)
 
 ### 🔗 Connect
 
