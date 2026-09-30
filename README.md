@@ -22,7 +22,7 @@ applications, applying the same quality engineering rigor to AI systems.
 
 | Project | What I did |
 |---|---|
-| [Playwright Automation Framework](link) | Built UI + API test automation with Page Object Model, CI pipeline, and reports |
+| [saucedemo-test-automation](link) | Built UI + API test automation with Page Object Model, CI pipeline, and reports |
 
 ### 🔗 Connect
 
