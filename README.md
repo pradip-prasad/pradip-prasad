@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Pradip Prasad 👋
 
-<!--
-**pradip-prasad/pradip-prasad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Test Engineer | AI/GenAI Testing | Automation Testing using Playwright and Selenium
 
-Here are some ideas to get you started:
+I specialize in software testing, test automation, and quality engineering
+for AI/LLM-based applications and UI applications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Skills
+
+- Python | Java | TypeScript
+- Playwright | Selenium
+- Pytest | TestNG
+- API Automation
+- OpenAI | LangChain
+- Promptfoo | DeepEval
+- LLM Evaluation
+- RAG Testing
+- CI/CD
+
+### 🚀 Featured Projects
+
+- GenAI Testing Framework
+- LLM Evaluation Pipeline
+- RAG Testing Framework
+- Playwright Automation Framework
+- API Automation Framework
+
+### 🔗 Connect
+
+💼 LinkedIn: [linkedin.com/in/p31](https://www.linkedin.com/in/p31/)
+📧 Email: pradippd31@gmail.com
