@@ -1,7 +1,5 @@
 # Hi, I'm Pradip Prasad 👋
 
-# Hi, I'm Pradip Prasad 👋
-
 ### Senior SDET | 11 years in test automation | Moving into AI/LLM application testing
 
 I build test automation frameworks and API test suites that catch real bugs
